@@ -1,0 +1,1 @@
+Note that reverse is a failed attempt at implementing an algo as ercise. Return to it later.
